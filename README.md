@@ -8,7 +8,7 @@ I'm a Software Engineering student at Addis Ababa Science and Technology Univers
 - 🔭 I’m currently studying Software Engineering
 - 🌱 I’m currently learning more about web development and improving my skills in Python and C++
 - 👯 I’m looking to collaborate on frontend projects
-- 📫 How to reach me: edenmengste@gmail.com | www.linkedin.com/in/eden-mengste
+- 📫 How to reach me: edenmengste@gmail.com | www.linkedin.com/in/eden-mengste | https://x.com/EdenMengste
 
 ## 🛠️ Skills
 
