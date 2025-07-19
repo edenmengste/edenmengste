@@ -10,9 +10,7 @@ I'm a Software Engineering student at Addis Ababa Science and Technology Univers
 - 👯 I’m looking to collaborate on frontend projects
 - 📫 How to reach me: edenmengste@gmail.com | www.linkedin.com/in/eden-mengste | https://x.com/EdenMengste
 
-# 💻 Tech Stack
-
-## 🛠️ Languages & Tools
+## 🛠️💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
