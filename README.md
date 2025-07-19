@@ -20,11 +20,12 @@ I'm a Software Engineering student at Addis Ababa Science and Technology Univers
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![CS50P](https://img.shields.io/badge/CS50's_Python-Harvard_University-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](https://cs50.harvard.edu/python/)
+
 
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
