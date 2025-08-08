@@ -1,11 +1,10 @@
 
 # Hi, I'm Eden Mengste! 👋
 
-I'm a Software Engineering student at Addis Ababa Science and Technology University. I have a passion for frontend development and have experience working with HTML, CSS, and JavaScript. Additionally, I have some knowledge of Python and C++.
+I'm a Software Engineering student.
 
 ## 🌟 About Me
 
-- 🔭 I’m currently studying Software Engineering
 - 🌱 I’m currently learning more about web development and improving my skills in Python and C++
 - 👯 I’m looking to collaborate on frontend projects
 - 📫 How to reach me: edenmengste@gmail.com | www.linkedin.com/in/eden-mengste | https://x.com/EdenMengste
